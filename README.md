@@ -20,6 +20,7 @@ In summary, Python's easy syntax, versatility, vast ecosystem, active community,
 The content of the course:
 
 Basics:
+
 **1. Variables:
 - What kind of variables are needed? (integers, floats, strings, etc.)
 - How many variables are needed?
