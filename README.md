@@ -18,6 +18,7 @@ Here's a brief overview of why Python is considered one of the best programming 
 In summary, Python's easy syntax, versatility, vast ecosystem, active community, open-source nature, constant evolution, and high demand in the job market solidify its position as one of the best programming languages to learn today.
 
 The content of the course:
+
 Basics:
 **1. Variables:
 - What kind of variables are needed? (integers, floats, strings, etc.)
